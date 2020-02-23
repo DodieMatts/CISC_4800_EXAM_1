@@ -1,0 +1,19 @@
+body {
+	margin-left: 50px;
+	margin-bottom: 100px;
+}
+
+h1,h2{
+	padding-left: 50%;
+}
+img {
+	padding-left: 50%;
+}
+
+.special {
+	text-decoration: underline;
+}
+
+.register {
+	padding-left: 20px;
+}
